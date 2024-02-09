@@ -1,4 +1,4 @@
-![image](https://github.com/FilipJovanovic10020rn/Banka-2-Frontend/assets/72214249/b2d52b86-a8ce-4db5-b1e8-d2b4ad875182)# Frontend README file
+# Frontend README file
 
 https://banka-2-dev.k8s.elab.rs/ - link to site ( BROKEN )
 
